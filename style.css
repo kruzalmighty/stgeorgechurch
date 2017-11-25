@@ -1143,7 +1143,8 @@ form input[type="submit"], form button, form input[type="reset"] {
   .branding .site-title {
     color: #8f7655;
     font-size: 14px;
-    font-size: 1em; }
+    font-size: 1.3em;
+    font-weight: 700; }
 
 .main-navigation {
   border-top: 1px solid #e5e5e5; }
@@ -1173,7 +1174,7 @@ form input[type="submit"], form button, form input[type="reset"] {
         font-family: "Novecento Sans", "Raleway", "Noto Sans" "Open Sans", sans-serif;
         font-weight: 400;
         font-size: 18px;
-        font-size: 1.2857142857em;
+        font-size: 13px;
         border-bottom: 1px solid #e5e5e5;
         -webkit-transition: .3s ease;
                 transition: .3s ease; }
